@@ -79,6 +79,26 @@ FinScope is a modern financial health dashboard built with **Next.js**, **Tailwi
 - **Dropdown Menu**: [`src/components/ui/dropdown-menu.tsx`](src/components/ui/dropdown-menu.tsx)
 - **Circular Progress**: [`src/components/ui/custom/circular-progress.tsx`](src/components/ui/custom/circular-progress.tsx)
 
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard.png)
+
+### Spending Analysis
+![Spending Analysis](screenshots/spending.png)
+
+### Investment Insights
+![Investment Insights](screenshots/investments.png)
+
+### Income Insights
+![Dark Mode](screenshots/income.png)
+
+###
+! [Light Mode](screenshots/light_mode.png)
+
 ## Installation
 
 1. Clone the repository:

@@ -88,7 +88,7 @@ Here are some screenshots of the application:
 ![Dashboard Overview](screenshots/dashboard.png)
 
 ### Spending Analysis
-![Spending Analysis](screenshots/spending.png)
+![Spending Analysis](screenshots/spendings.png)
 
 ### Investment Insights
 ![Investment Insights](screenshots/investments.png)
@@ -97,7 +97,7 @@ Here are some screenshots of the application:
 ![Dark Mode](screenshots/income.png)
 
 ###
-! [Light Mode](screenshots/light_mode.png)
+![Light Mode](screenshots/light_mode.png)
 
 ## Installation
 
